@@ -24,7 +24,7 @@ Ioana Munteanu & Julie Malyshev
  - mouse: zoom in/out using the mouse
 
 ## Programming language
-Processing 
+- Processing 
 
 ## Libraries 
  - peasy: PeasyCam provides a dead-simple mouse-driven camera for Processing.
