@@ -20,8 +20,9 @@ Ioana Munteanu & Julie Malyshev
  - arrows: move the obstacle (dark blue raindrop)
  - space: pause/resume simulation
  - r: moves spiders to initial position
- - a, s, d, w: move the red spider
- - mouse: zoom in/out using the mouse
+ - WASD: move the red spider
+ - Scroll wheel: move in/out
+ - Mouse drag: rotate/pan camera
 
 ## Programming language
 - Processing 
