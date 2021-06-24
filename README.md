@@ -26,8 +26,10 @@ Ioana Munteanu & Julie Malyshev
 ## Programming language
 - Processing 
 
-## Libraries 
- - peasy: PeasyCam provides a dead-simple mouse-driven camera for Processing.
+## Difficulties
+- I tried to use some existing PNG images for the fish but the number of FPS was extremely low.
+- I could not create the obstacle avoidance  (I managed to make a flock avoid an object but not to come back as a flock right after).
+- I had a hard time figuring out the right coefficients for separation, cohesion, and avoidance. 
 
 
 
